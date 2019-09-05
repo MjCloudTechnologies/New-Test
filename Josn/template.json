@@ -11,7 +11,7 @@
             "type": "String"
         },
         "networkInterfaces_vm996_externalid": {
-            "defaultValue": "/subscriptions/6f299fe0-3a24-496f-95ce-d8d050082332/resourceGroups/rep/providers/Microsoft.Network/networkInterfaces/vm996",
+            "defaultValue": "/subscriptions/6f299fe0-3a24-496f-95ce-d8d050082332/resourceGroups/AzureDevOpsDep/providers/Microsoft.Network/virtualNetworks/testvnet",
             "type": "String"
         }
     },
